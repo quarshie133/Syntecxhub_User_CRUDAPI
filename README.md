@@ -239,5 +239,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## 🙋‍♂️ Author
+Prince Ephraim Quarshie
 
 Built as a backend learning assignment covering REST API design, Express routing, Mongoose ODM, and API testing with Postman.
